@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Comecei profissionalmente no setor industrial, depois fui para o mundo e-commerce, me aventurei com pesquisa na área nuclear ☢️ e agora estou na docência 👨🏻‍🏫<br>📚 Me aprofundando nos universos front e back-end, e muito mais!<br>🎯 Goals: Me tornar o melhor programador possível ;)<br><br>Loading... Page in maintenance.</p>
+<p align="left">✨ Comecei profissionalmente no setor industrial, depois fui para o mundo e-commerce, me aventurei com pesquisa na área nuclear ☢️ e agora estou na docência 👨🏻‍🏫<br>📚 Me aprofundando nos universos front e back-end, e muito mais!<br>🎯 Goals: Me tornar o melhor professor_programador possível ;)<br><br>Loading... Page in maintenance.</p>
 
 ###
 
