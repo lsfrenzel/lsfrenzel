@@ -36,8 +36,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/GDevelop_logo.png/600px-GDevelop_logo.png" height="40" alt="gdevelop logo"/>
+  <img width="12" />  
+  <img src="https://gdevelop.io/static/img/logo-white-outline.b78df84b.svg" height="40" alt="gdevelop logo"/>
 </div>
 
 ###
