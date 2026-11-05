@@ -38,9 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"/>
-  <img width="12" />  
-  <img src="https://static-00.iconduck.com/assets.00/gdevelop-icon-2048x1640-7y5aemvt.png" height="40" alt="gdevelop logo"/>
-  <img width="12" />  
+  <img width="12" />
 </div>
 
 ###
